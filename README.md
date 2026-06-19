@@ -9,7 +9,8 @@ Dieses Repository dokumentiert meine technischen Projekte im Bereich Geoinformat
 
 ### Projektergebnisse
 * Siehe die finale PDF-Karte: [Bremen_EV_Optimization.pdf](./Bremen_EV_Optimization.pdf)
-* # Projekt 2: PV-Einspeisepotenzial vs. Ortsnetztransformator-Kapazität
+
+# Projekt 2: PV-Einspeisepotenzial vs. Ortsnetztransformator-Kapazität
 
 ## Projektübersicht
 In diesem Projekt wurde das theoretische maximale solare Einspeisepotenzial eines Wohnquartiers im Raum Bremen auf Basis von offiziellen Liegenschaftsdaten (ALKIS) berechnet und einer elektrotechnischen Netzverträglichkeitsprüfung unterzogen.
