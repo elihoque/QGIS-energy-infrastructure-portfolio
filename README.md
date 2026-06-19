@@ -29,7 +29,6 @@ $$P_{\text{peak}} = \text{Dachfläche} \times 0{,}40 \ (\text{Nutzungsgrad}) \ti
 ## Ergebnisse und Dokumentation
 Die vollständige ingenieurtechnische Netzengpassanalyse sowie die graduierte Potentialkarte finden Sie in der ausführlichen Projektdokumentation:
 👉 **[Hier klicken für den vollständigen PDF-Bericht](./02_Solar_Grid_Capacity/bremen_solar_transformer_analysis.pdf)**
-👉 **[Hier klicken für gpkg datei](./02_Solar_Grid_Capacity/neighborhood_solar.gpkg)**
 
 
 ## Erworbenes GIS-Know-how:
